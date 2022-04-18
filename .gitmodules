@@ -1,0 +1,6 @@
+[submodule "minusutil"]
+	path = minusutil
+	url = git@github.com:QqChip/lib2.git
+[submodule "addutil"]
+	path = addutil
+	url = git@github.com:QqChip/lib1.git
